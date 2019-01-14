@@ -1,0 +1,2 @@
+D:\Workwork\Git\Glissade.Client\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+D:\Workwork\Git\Glissade.Client\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache

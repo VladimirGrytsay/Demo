@@ -1,0 +1,2 @@
+D:\Workwork\Git\Glissade.Client\Glissade.Client\obj\Debug\Glissade.Client.csprojAssemblyReference.cache
+D:\Workwork\Git\Glissade.Client\Glissade.Client\obj\Debug\Glissade.Client.csproj.CoreCompileInputs.cache
